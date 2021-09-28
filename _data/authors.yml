@@ -9,4 +9,16 @@ biology:
   facebook: False
   twitter: False
   cover: False
-  
+
+physical:
+  username: physcial
+  name: 体育
+  location:
+  url_full: False
+  url: False
+  bio:
+  picture:
+  facebook: False
+  twitter: False
+  cover: False
+
