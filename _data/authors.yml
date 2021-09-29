@@ -1,5 +1,5 @@
-biology:
-  username: biology
+Biology:
+  username: Biology
   name: 生物
   location: 
   url_full: False
@@ -10,8 +10,8 @@ biology:
   twitter: False
   cover: False
 
-physical:
-  username: physcial
+PhysicalEducation:
+  username: PhysicalEducation
   name: 体育
   location:
   url_full: False
@@ -21,4 +21,30 @@ physical:
   facebook: False
   twitter: False
   cover: False
+
+Humanity:
+  username: Humanity
+  name: 人文项目
+  location:
+  url_full: False
+  url: False
+  bio:
+  picture:
+  facebook: False
+  twitter: False
+  cover: False
+
+Art:
+  username: Art
+  name: 艺术
+  location:
+  url_full: False
+  url: False
+  bio:
+  picture:
+  facebook: False
+  twitter: False
+  cover: False
+
+
 

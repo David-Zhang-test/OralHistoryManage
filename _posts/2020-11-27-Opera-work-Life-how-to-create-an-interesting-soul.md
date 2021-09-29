@@ -8,7 +8,7 @@ date: 2020-11-27
 tags: [teacher-picture]
 class: post-template
 subclass: 'post'
-author: biology #如果是教师图鉴的话，这里要填学科
+author: Biology #如果是教师图鉴的话，这里要填学科
 authors2: [翁婉姣,秦韵,邵沐之] #采访人，如果有多位，请用英文逗号分开
 comments: True
 abstract: "我叫夏一凡，北京籍。1993年出生，自出生起就住在北京，一直也没离开过。"
