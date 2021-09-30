@@ -46,5 +46,17 @@ Art:
   twitter: False
   cover: False
 
+Chinese:
+  username: Chinese
+  name: 语文
+  location:
+  url_full: False
+  url: False
+  bio:
+  picture:
+  facebook: False
+  twitter: False
+  cover: False
+
 
 

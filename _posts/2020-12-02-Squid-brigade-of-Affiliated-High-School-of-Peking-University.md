@@ -8,7 +8,7 @@ date: 2020-12-02
 tags: [teacher-picture]
 class: post-template
 subclass: 'post'
-author: biology #如果是教师图鉴的话，这里要填学科
+author: Biology #如果是教师图鉴的话，这里要填学科
 authors2: [陈斯婧,杜楷源,张艾琪,张沁月] #采访人，如果有多位，请用英文逗号分开
 comments: True
 abstract: "虽然生物竞赛不重要，但是有鱿鱼对这个感兴趣，得给他们一个学习平台啊，所以我就把这摊子支起来了。"
